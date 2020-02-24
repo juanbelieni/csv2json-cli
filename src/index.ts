@@ -14,7 +14,7 @@ function csv2json(csvPath, { output, delimiter }) {
 }
 
 program
-  .name('csv2json')
+  .name('csvtojson')
   .description('CLI to convert CSV to JSON')
   .version('0.0.1')
   .arguments('<csv>')

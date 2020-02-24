@@ -1,6 +1,6 @@
 {
-  "name": "csv2json",
-  "version": "0.0.1",
+  "name": "csvtojson-cli",
+  "version": "0.0.2",
   "main": "build/index.js",
   "license": "MIT",
   "scripts": {
@@ -20,6 +20,6 @@
     "csv-parse": "^4.8.6"
   },
   "bin": {
-    "csv2json": "build/index.js"
+    "csvtojson": "build/index.js"
   }
 }

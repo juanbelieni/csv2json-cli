@@ -1,9 +1,9 @@
-# CSV2JSON
+# CSVTOJSON CLI
 
 
 `CLI to convert CSV to JSON`
 
-Usage: csv2json [options] \<csv>
+Usage: csvtojson [options] \<csv>
 
 
 ```
